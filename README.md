@@ -1,7 +1,7 @@
 <!--
 👋 Hi, I’m @riaray22
 - 👀 I’m interested in quality analyst automation coding
-- 🌱 I’m currently learning web designing languages
+- 🌱 I’m currently learning testing tools and Python
 - 💞️ I’m looking to collaborate on automation testing
 - 📫 How to reach me through gmail-riaray.100397@gmail.com
 - 😄 Pronouns: sweet, smartworking enthusiastic learner
@@ -9,7 +9,7 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ria+Ray+%F0%9F%91%8B;Professional+Bug+Hunter+%F0%9F%90%9B%2B;Professional+Sleep+Depriver+%E2%98%95;Making+Code+Work+Since+Yesterday+%F0%9F%98%85;QA+by+Day%2C+Developer+by+Night+%F0%9F%8C%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ria+Ray+%F0%9F%91%8B;Professional+Bug+Hunter+%F0%9F%90%9B%2B;Professional+Sleep+Depriver+%E2%98%95;Making+Code+Work+Since+Yesterday+%F0%9F%98%85;QA+by+Day%2C+Python+Automator+by+Night+%F0%9F%90%8D" alt="Typing SVG" />
 </div>
 
 <br>
@@ -17,7 +17,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Girl GIF">
   <br>
-  <i>Me trying to explain why my automation script works on my machine but not on CI/CD 🥲</i>
+  <i>Me trying to explain why my Python automation script works on my machine but not on CI/CD 🥲</i>
 </div>
 
 ---
@@ -30,30 +30,30 @@
       <ul>
         <li>🏢 <strong>Currently Breaking Things At:</strong> <b>NEKSS Pvt Ltd</b> </li>
         <li>🔍 <strong>Job Title:</strong> Quality Analyst <i>(Professional Bug Magnet 🧲)</i></li>
-        <li>🤖 <strong>What I Actually Do:</strong> Break code, find bugs, cry a little, fix them, repeat 🔄</li>
-        <li>📚 <strong>Currently "Learning":</strong> 
+        <li>🤖 <strong>What I Actually Do:</strong> Break code, find bugs, automate tests, cry a little, fix them, repeat 🔄</li>
+        <li>📚 <strong>Currently Deep Diving Into:</strong> 
           <ul>
-            <li>✨ Web Design (because apparently QA needs to be pretty too)</li>
-            <li>🤖 Automation (so I can automate myself out of a job)</li>
-            <li>🗄️ SQL (SELECT * FROM knowledge WHERE brain = 'full')</li>
-            <li>🧪 Selenium (WebDriver? More like WebCry-er am I right?)</li>
+            <li>🐍 Python (because Java gives me trust issues)</li>
+            <li>🤖 Testing Tools (Selenium, PyTest, Postman, JMeter)</li>
+            <li>🗄️ SQL (SELECT * FROM knowledge WHERE brain = 'expanding')</li>
+            <li>⚡ Automation Frameworks (Making machines do my job)</li>
           </ul>
         </li>
-        <li>💞️ <strong>Looking to Collaborate On:</strong> Automation Testing <i>(Misery loves company)</i></li>
-        <li>🎯 <strong>Life Motto:</strong> "It's not a bug, it's an undocumented feature"</li>
+        <li>💞️ <strong>Looking to Collaborate On:</strong> Automation Testing in Python <i>(Teamwork makes the bug fix work)</i></li>
+        <li>🎯 <strong>Life Motto:</strong> "Automate everything, trust no one"</li>
       </ul>
     </td>
     <td align="center" width="40%">
       <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200">
       <br>
-      <i>Me learning SQL at 3 AM</i>
+      <i>Me when my Python script finally works</i>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 My Current Mental State
+## 🎯 My Current Focus
 
 <div align="center">
   <table>
@@ -61,55 +61,51 @@
       <td align="center">
         <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
         <br>
-        <strong>Learning Automation</strong>
+        <strong>🐍 Python Automation</strong>
         <br>
-        <i>"Why work hard when you can work smart... and still debug for 5 hours?"</i>
+        <i>"Why write tests when you can write code that writes tests?"</i>
       </td>
       <td align="center">
         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100">
         <br>
-        <strong>Learning SQL</strong>
+        <strong>🧪 Testing Tools</strong>
         <br>
-        <i>"SELECT * FROM brain WHERE understanding = 'nope'"</i>
-       </td>
+        <i>"Selenium + PyTest = ❤️"</i>
+      </td>
       <td align="center">
         <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100">
         <br>
-        <strong>Learning Selenium</strong>
+        <strong>🗄️ SQL</strong>
         <br>
-        <i>"Element not found? But it's RIGHT THERE!"</i>
-       </td>
-     </tr>
-   </table>
+        <i>"SELECT * FROM databases WHERE make_sense = 'maybe'"</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🛠️ Tech Stack (The Stuff I Pretend to Know)
+## 🛠️ Tech Stack (What I Actually Use)
 
 <div align="center">
 
-### 🧪 Testing & Automation (My Jam... Sometimes)
+### 🐍 Testing & Automation (My Bread & Butter)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=0d1117)
-![Cypress](https://img.shields.io/badge/Cypress-172026?style=for-the-badge&logo=cypress&logoColor=white&labelColor=0d1117)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white&labelColor=0d1117)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white&labelColor=0d1117)
 
-### 💻 Languages (The Ones I Swear At)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
+### 💻 Languages (The Ones I Actually Use)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
 
-### 🌐 Web Technologies (The "I'm Learning" Section)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=0d1117)
-
-### 🗄️ Tools (My Digital Painkillers)
+### 🗄️ Tools (My Daily Drivers)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=0d1117)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -123,7 +119,7 @@
 </div>
 
 <div align="center">
-  <i>*(Numbers may vary depending on how many times I cried while coding)*</i>
+  <i>*(Numbers may vary depending on how many times I refactored my test suite)*</i>
 </div>
 
 <br>
@@ -139,7 +135,7 @@
 
 <div align="center">
   <details>
-    <summary><b>📖 Click to see my "Learning Progress" 🤡</b></summary>
+    <summary><b>📖 Click to see my "Testing Progress" 🤡</b></summary>
     <br>
     <table>
       <tr>
@@ -148,23 +144,23 @@
         <th>Pain Level</th>
       </tr>
       <tr>
-        <td>🤖 Automation Testing</td>
+        <td>🐍 Python Automation</td>
+        <td>████████░░ 80%</td>
+        <td>😤😤</td>
+      </tr>
+      <tr>
+        <td>🧪 Selenium + PyTest</td>
         <td>███████░░░ 70%</td>
-        <td>😤😤😤</td>
+        <td>😵‍💫😵‍💫😵‍💫</td>
       </tr>
       <tr>
         <td>🗄️ SQL</td>
         <td>██████░░░░ 60%</td>
-        <td>😵‍💫😵‍💫</td>
+        <td>🤬🤬</td>
       </tr>
       <tr>
-        <td>🧪 Selenium</td>
-        <td>█████░░░░░ 50%</td>
-        <td>🤬🤬🤬🤬</td>
-      </tr>
-      <tr>
-        <td>🎨 Web Design</td>
-        <td>████░░░░░░ 40%</td>
+        <td>🚀 API Testing (Postman)</td>
+        <td>███████░░░ 75%</td>
         <td>😐</td>
       </tr>
       <tr>
@@ -176,18 +172,48 @@
     <br>
     <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200">
     <br>
-    <i>"I understand nothing, but I'm trying my best" - My daily standup update</i>
+    <i>"My code works. I don't know why. But it does. Let's not question it." - My daily standup update</i>
   </details>
 </div>
 
 ---
 
-## 📈 Activity Graph (When I'm Not Procrastinating)
+## 📈 Activity Graph (Test Execution Mode)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=riaray22&theme=react-dark&bg_color=0d1117&hide_border=true&color=FF6B6B&line=FF6B6B&point=ffffff" alt="Activity Graph" width="100%" />
   <br>
-  <i>Those green squares? Yeah, that's me fighting with Selenium locators</i>
+  <i>Those green squares? Yeah, that's me running test suites and praying they pass</i>
 </div>
 
 ---
+
+## 📫 Connect With Me (If You Dare)
+
+<div align="center">
+  <a href="mailto:riaray.100397@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/riaray22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ria-ray-software-tester/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=riaray22&style=for-the-badge&color=FF6B6B" alt="Profile Views" />
+  <br>
+  <i>⚠️ Warning: May contain sarcasm, coffee stains, and unexpected test failures</i>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100">
+  <br>
+  <b>Thanks for visiting! Now go write some tests.. 😘</b>
+</div>
