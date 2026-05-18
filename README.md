@@ -28,7 +28,7 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🏢 <strong>Currently Breaking Things At:</strong> <b>NEKSS Pvt Ltd</b> (They still haven't fired me yet! 🎉)</li>
+        <li>🏢 <strong>Currently Breaking Things At:</strong> <b>NEKSS Pvt Ltd</b> </li>
         <li>🔍 <strong>Job Title:</strong> Quality Analyst <i>(Professional Bug Magnet 🧲)</i></li>
         <li>🤖 <strong>What I Actually Do:</strong> Break code, find bugs, cry a little, fix them, repeat 🔄</li>
         <li>📚 <strong>Currently "Learning":</strong> 
